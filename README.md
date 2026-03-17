@@ -4,7 +4,7 @@
 This project implements a closed-loop position controller for a DC gear motor using an ESP32-S3 microcontroller and an AS5600 magnetic encoder. A PID controller is used to track target angles while compensating for friction, backlash, and sensor alignment errors.
 
 ## DEMO
-![demo](demo.mp4)
+![demo](DEMO.mp4)
 
 ## System Architecture
 ![Block Diagram](Architecture.jpeg)
